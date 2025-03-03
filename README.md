@@ -1,12 +1,6 @@
-# IST-256---4-Seconds
+# 4-Seconds-or-Less
 
-
-# John McGee
-Try and click stop in 4 seconds.
-
-## Assignment Info:
-* 4 Seconds Assignment
-* 4/11/2023
+##Try and click stop in 4 seconds.
 
 ## Links
 https://johmcg.github.io/IST-256---4-Seconds/
